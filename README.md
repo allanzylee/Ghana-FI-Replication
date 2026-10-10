@@ -4,7 +4,7 @@
 
 **Authors:** Allan Lee (Princeton University), Elisabetta Aurino (University of Barcelona), Sharon Wolf (University of Pennsylvania)
 
-**Contact:** Allan Lee, allanlee@princeton.edu
+**Contact:** Allan Lee, allan.lee@princeton.edu
 
 ## Citation
 
